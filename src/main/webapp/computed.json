@@ -1,0 +1,497 @@
+{
+	"2024-January": {
+		"rowDataArray": [
+			{
+				"number": 2,
+				"itemName": "Coffee machine",
+				"hours": "2.00",
+				"workingdays": 21,
+				"rating": "600.00",
+				"units": "50.40"
+			},
+			{
+				"number": 92,
+				"itemName": "Laptop",
+				"hours": "4.00",
+				"workingdays": 21,
+				"rating": "50.00",
+				"units": "386.40"
+			},
+			{
+				"number": 1,
+				"itemName": "NAS",
+				"hours": "24.00",
+				"workingdays": 29,
+				"rating": "25.00",
+				"units": "17.40"
+			},
+			{
+				"number": 13,
+				"itemName": "TV",
+				"hours": "2.00",
+				"workingdays": 21,
+				"rating": "100.00",
+				"units": "54.60"
+			},
+			{
+				"number": 48,
+				"itemName": "Personal computer",
+				"hours": "9.00",
+				"workingdays": 21,
+				"rating": "150.00",
+				"units": "1360.80"
+			},
+			{
+				"number": 10,
+				"itemName": "Server",
+				"hours": "24.00",
+				"workingdays": 29,
+				"rating": "1000.00",
+				"units": "6960.00"
+			},
+			{
+				"number": 7,
+				"itemName": "Access points",
+				"hours": "24.00",
+				"workingdays": 29,
+				"rating": "15.00",
+				"units": "73.08"
+			},
+			{
+				"number": 1,
+				"itemName": "Water filter",
+				"hours": "9.00",
+				"workingdays": 21,
+				"rating": "50.00",
+				"units": "9.45"
+			},
+			{
+				"number": 8,
+				"itemName": "Switches",
+				"hours": "24.00",
+				"workingdays": 29,
+				"rating": "20.00",
+				"units": "111.36"
+			},
+			{
+				"number": 11,
+				"itemName": "Printer",
+				"hours": "1.00",
+				"workingdays": 21,
+				"rating": "40.00",
+				"units": "9.24"
+			},
+			{
+				"number": 2,
+				"itemName": "Air conditioner",
+				"hours": "9.00",
+				"workingdays": 21,
+				"rating": "1500.00",
+				"units": "567.00"
+			},
+			{
+				"number": 1,
+				"itemName": "Firewall",
+				"hours": "24.00",
+				"workingdays": 21,
+				"rating": "195.00",
+				"units": "98.28"
+			},
+			{
+				"number": 2,
+				"itemName": "Fan-Pedestal",
+				"hours": "9.00",
+				"workingdays": 21,
+				"rating": "80.00",
+				"units": "30.24"
+			},
+			{
+				"number": 1,
+				"itemName": "Kettle",
+				"hours": "1.00",
+				"workingdays": 21,
+				"rating": "1700.00",
+				"units": "35.70"
+			},
+			{
+				"number": 2,
+				"itemName": "Microwave oven",
+				"hours": "2.00",
+				"workingdays": 21,
+				"rating": "800.00",
+				"units": "67.20"
+			},
+			{
+				"number": 2,
+				"itemName": "Vaccuum cleaner",
+				"hours": "1.00",
+				"workingdays": 21,
+				"rating": "800.00",
+				"units": "33.60"
+			},
+			{
+				"number": 78,
+				"itemName": "Battery",
+				"hours": "10.00",
+				"workingdays": 21,
+				"rating": "5.20",
+				"units": "85.18"
+			},
+			{
+				"number": 5,
+				"itemName": "UPS",
+				"hours": "1.00",
+				"workingdays": 21,
+				"rating": "420.00",
+				"units": "44.10"
+			},
+			{
+				"number": 28,
+				"itemName": "Camera",
+				"hours": "24.00",
+				"workingdays": 21,
+				"rating": "8.00",
+				"units": "112.90"
+			},
+			{
+				"number": 1,
+				"itemName": "EPABX",
+				"hours": "9.00",
+				"workingdays": 21,
+				"rating": "300.00",
+				"units": "56.70"
+			}
+		],
+		"MonthTotalUnits": "10163.63"
+	},
+	"2024-March": {
+		"rowDataArray": [
+			{
+				"number": 2,
+				"itemName": "Coffee machine",
+				"hours": "2.00",
+				"workingdays": 21,
+				"rating": "600.00",
+				"units": "50.40"
+			},
+			{
+				"number": 92,
+				"itemName": "Laptop",
+				"hours": "4.00",
+				"workingdays": 21,
+				"rating": "50.00",
+				"units": "386.40"
+			},
+			{
+				"number": 1,
+				"itemName": "NAS",
+				"hours": "24.00",
+				"workingdays": 29,
+				"rating": "26.00",
+				"units": "18.10"
+			},
+			{
+				"number": 13,
+				"itemName": "TV",
+				"hours": "2.00",
+				"workingdays": 21,
+				"rating": "100.00",
+				"units": "54.60"
+			},
+			{
+				"number": 48,
+				"itemName": "Personal computer",
+				"hours": "9.00",
+				"workingdays": 21,
+				"rating": "150.00",
+				"units": "1360.80"
+			},
+			{
+				"number": 10,
+				"itemName": "Server",
+				"hours": "24.00",
+				"workingdays": 29,
+				"rating": "1000.00",
+				"units": "6960.00"
+			},
+			{
+				"number": 7,
+				"itemName": "Access points",
+				"hours": "24.00",
+				"workingdays": 29,
+				"rating": "15.00",
+				"units": "73.08"
+			},
+			{
+				"number": 1,
+				"itemName": "Water filter",
+				"hours": "9.00",
+				"workingdays": 21,
+				"rating": "50.00",
+				"units": "9.45"
+			},
+			{
+				"number": 8,
+				"itemName": "Switches",
+				"hours": "24.00",
+				"workingdays": 29,
+				"rating": "20.00",
+				"units": "111.36"
+			},
+			{
+				"number": 11,
+				"itemName": "Printer",
+				"hours": "1.00",
+				"workingdays": 21,
+				"rating": "40.00",
+				"units": "9.24"
+			},
+			{
+				"number": 2,
+				"itemName": "Air conditioner",
+				"hours": "9.00",
+				"workingdays": 21,
+				"rating": "1500.00",
+				"units": "567.00"
+			},
+			{
+				"number": 1,
+				"itemName": "Firewall",
+				"hours": "24.00",
+				"workingdays": 21,
+				"rating": "195.00",
+				"units": "98.28"
+			},
+			{
+				"number": 2,
+				"itemName": "Fan-Pedestal",
+				"hours": "9.00",
+				"workingdays": 21,
+				"rating": "80.00",
+				"units": "30.24"
+			},
+			{
+				"number": 1,
+				"itemName": "Kettle",
+				"hours": "1.00",
+				"workingdays": 21,
+				"rating": "1700.00",
+				"units": "35.70"
+			},
+			{
+				"number": 2,
+				"itemName": "Microwave oven",
+				"hours": "2.00",
+				"workingdays": 21,
+				"rating": "800.00",
+				"units": "67.20"
+			},
+			{
+				"number": 2,
+				"itemName": "Vaccuum cleaner",
+				"hours": "1.00",
+				"workingdays": 21,
+				"rating": "800.00",
+				"units": "33.60"
+			},
+			{
+				"number": 78,
+				"itemName": "Battery",
+				"hours": "10.00",
+				"workingdays": 21,
+				"rating": "5.20",
+				"units": "85.18"
+			},
+			{
+				"number": 5,
+				"itemName": "UPS",
+				"hours": "1.00",
+				"workingdays": 21,
+				"rating": "420.00",
+				"units": "44.10"
+			},
+			{
+				"number": 28,
+				"itemName": "Camera",
+				"hours": "24.00",
+				"workingdays": 21,
+				"rating": "8.00",
+				"units": "112.90"
+			},
+			{
+				"number": 1,
+				"itemName": "EPABX",
+				"hours": "9.00",
+				"workingdays": 21,
+				"rating": "300.00",
+				"units": "56.70"
+			}
+		],
+		"MonthTotalUnits": "10164.33"
+	},
+	"2024-February": {
+		"rowDataArray": [
+			{
+				"number": 2,
+				"itemName": "Coffee machine",
+				"hours": "2.00",
+				"workingdays": 21,
+				"rating": "600.00",
+				"units": "50.40"
+			},
+			{
+				"number": 92,
+				"itemName": "Laptop",
+				"hours": "4.00",
+				"workingdays": 21,
+				"rating": "50.00",
+				"units": "386.40"
+			},
+			{
+				"number": 1,
+				"itemName": "NAS",
+				"hours": "24.00",
+				"workingdays": 29,
+				"rating": "25.00",
+				"units": "17.40"
+			},
+			{
+				"number": 13,
+				"itemName": "TV",
+				"hours": "2.00",
+				"workingdays": 21,
+				"rating": "100.00",
+				"units": "54.60"
+			},
+			{
+				"number": 48,
+				"itemName": "Personal computer",
+				"hours": "9.00",
+				"workingdays": 21,
+				"rating": "150.00",
+				"units": "1360.80"
+			},
+			{
+				"number": 10,
+				"itemName": "Server",
+				"hours": "24.00",
+				"workingdays": 29,
+				"rating": "1000.00",
+				"units": "6960.00"
+			},
+			{
+				"number": 7,
+				"itemName": "Access points",
+				"hours": "24.00",
+				"workingdays": 29,
+				"rating": "15.00",
+				"units": "73.08"
+			},
+			{
+				"number": 1,
+				"itemName": "Water filter",
+				"hours": "9.00",
+				"workingdays": 21,
+				"rating": "50.00",
+				"units": "9.45"
+			},
+			{
+				"number": 8,
+				"itemName": "Switches",
+				"hours": "24.00",
+				"workingdays": 29,
+				"rating": "20.00",
+				"units": "111.36"
+			},
+			{
+				"number": 11,
+				"itemName": "Printer",
+				"hours": "1.00",
+				"workingdays": 21,
+				"rating": "40.00",
+				"units": "9.24"
+			},
+			{
+				"number": 2,
+				"itemName": "Air conditioner",
+				"hours": "9.00",
+				"workingdays": 21,
+				"rating": "1500.00",
+				"units": "567.00"
+			},
+			{
+				"number": 1,
+				"itemName": "Firewall",
+				"hours": "24.00",
+				"workingdays": 21,
+				"rating": "195.00",
+				"units": "98.28"
+			},
+			{
+				"number": 2,
+				"itemName": "Fan-Pedestal",
+				"hours": "9.00",
+				"workingdays": 21,
+				"rating": "80.00",
+				"units": "30.24"
+			},
+			{
+				"number": 1,
+				"itemName": "Kettle",
+				"hours": "1.00",
+				"workingdays": 21,
+				"rating": "1700.00",
+				"units": "35.70"
+			},
+			{
+				"number": 2,
+				"itemName": "Microwave oven",
+				"hours": "2.00",
+				"workingdays": 21,
+				"rating": "800.00",
+				"units": "67.20"
+			},
+			{
+				"number": 2,
+				"itemName": "Vaccuum cleaner",
+				"hours": "1.00",
+				"workingdays": 21,
+				"rating": "800.00",
+				"units": "33.60"
+			},
+			{
+				"number": 78,
+				"itemName": "Battery",
+				"hours": "10.00",
+				"workingdays": 21,
+				"rating": "5.20",
+				"units": "85.18"
+			},
+			{
+				"number": 5,
+				"itemName": "UPS",
+				"hours": "1.00",
+				"workingdays": 21,
+				"rating": "420.00",
+				"units": "44.10"
+			},
+			{
+				"number": 28,
+				"itemName": "Camera",
+				"hours": "24.00",
+				"workingdays": 21,
+				"rating": "8.00",
+				"units": "112.90"
+			},
+			{
+				"number": 1,
+				"itemName": "EPABX",
+				"hours": "9.00",
+				"workingdays": 21,
+				"rating": "300.00",
+				"units": "56.70"
+			}
+		],
+		"MonthTotalUnits": "10163.63"
+	}
+}

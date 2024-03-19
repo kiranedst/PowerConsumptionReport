@@ -1,0 +1,149 @@
+{
+	"Coffee machine": {
+		"fieldRating": "600",
+		"fieldUnits": "",
+		"fieldNumber": "",
+		"fieldWorkingDays": "",
+		"fieldDuration": ""
+	},
+	"Projector": {
+		"fieldRating": "200",
+		"fieldUnits": "",
+		"fieldNumber": "",
+		"fieldWorkingDays": "",
+		"fieldDuration": ""
+	},
+	"Laptop": {
+		"fieldRating": "50",
+		"fieldUnits": "",
+		"fieldNumber": "",
+		"fieldWorkingDays": "",
+		"fieldDuration": ""
+	},
+	"NAS": {
+		"fieldRating": "25",
+		"fieldUnits": "",
+		"fieldNumber": "",
+		"fieldWorkingDays": "",
+		"fieldDuration": ""
+	},
+	"TV": {
+		"fieldRating": "100",
+		"fieldUnits": "",
+		"fieldNumber": "",
+		"fieldWorkingDays": "",
+		"fieldDuration": ""
+	},
+	"Personal computer": {
+		"fieldRating": "150",
+		"fieldUnits": "",
+		"fieldNumber": "",
+		"fieldWorkingDays": "",
+		"fieldDuration": ""
+	},
+	"Server": {
+		"fieldRating": "1000",
+		"fieldUnits": "",
+		"fieldNumber": "",
+		"fieldWorkingDays": "",
+		"fieldDuration": ""
+	},
+	"Access points": {
+		"fieldRating": "15",
+		"fieldUnits": "",
+		"fieldNumber": "",
+		"fieldWorkingDays": "",
+		"fieldDuration": ""
+	},
+	"Water filter": {
+		"fieldRating": "50",
+		"fieldUnits": "",
+		"fieldNumber": "",
+		"fieldWorkingDays": "",
+		"fieldDuration": ""
+	},
+	"Switches": {
+		"fieldRating": "20",
+		"fieldUnits": "",
+		"fieldNumber": "",
+		"fieldWorkingDays": "",
+		"fieldDuration": ""
+	},
+	"Printer": {
+		"fieldRating": "40",
+		"fieldUnits": "",
+		"fieldNumber": "",
+		"fieldWorkingDays": "",
+		"fieldDuration": ""
+	},
+	"Air conditioner": {
+		"fieldRating": "1500",
+		"fieldUnits": "",
+		"fieldNumber": "",
+		"fieldWorkingDays": "",
+		"fieldDuration": ""
+	},
+	"Firewall": {
+		"fieldRating": "195",
+		"fieldUnits": "",
+		"fieldNumber": "",
+		"fieldWorkingDays": "",
+		"fieldDuration": ""
+	},
+	"Fan-Pedestal": {
+		"fieldRating": "80",
+		"fieldUnits": "",
+		"fieldNumber": "",
+		"fieldWorkingDays": "",
+		"fieldDuration": ""
+	},
+	"Kettle": {
+		"fieldRating": "1700",
+		"fieldUnits": "",
+		"fieldNumber": "",
+		"fieldWorkingDays": "",
+		"fieldDuration": ""
+	},
+	"Microwave oven": {
+		"fieldRating": "800",
+		"fieldUnits": "",
+		"fieldNumber": "",
+		"fieldWorkingDays": "",
+		"fieldDuration": ""
+	},
+	"Vaccuum cleaner": {
+		"fieldRating": "800",
+		"fieldUnits": "",
+		"fieldNumber": "",
+		"fieldWorkingDays": "",
+		"fieldDuration": ""
+	},
+	"Battery": {
+		"fieldRating": "5.2",
+		"fieldUnits": "",
+		"fieldNumber": "",
+		"fieldWorkingDays": "",
+		"fieldDuration": ""
+	},
+	"UPS": {
+		"fieldRating": "420",
+		"fieldUnits": "",
+		"fieldNumber": "",
+		"fieldWorkingDays": "",
+		"fieldDuration": ""
+	},
+	"Camera": {
+		"fieldRating": "8",
+		"fieldUnits": "",
+		"fieldNumber": "",
+		"fieldWorkingDays": "",
+		"fieldDuration": ""
+	},
+	"EPABX": {
+		"fieldRating": "300",
+		"fieldUnits": "",
+		"fieldNumber": "",
+		"fieldWorkingDays": "",
+		"fieldDuration": ""
+	}
+}
